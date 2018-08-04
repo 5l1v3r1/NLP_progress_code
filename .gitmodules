@@ -22,3 +22,24 @@
 [submodule "asr/theano-kaldi-rnn"]
 	path = asr/theano-kaldi-rnn
 	url = git@github.com:mravanelli/theano-kaldi-rnn.git
+[submodule "semantic_role_labeling/deep_srl"]
+	path = semantic_role_labeling/deep_srl
+	url = git@github.com:luheng/deep_srl.git
+[submodule "semantic_role_labeling/lsgn"]
+	path = semantic_role_labeling/lsgn
+	url = git@github.com:luheng/lsgn.git
+[submodule "semantic_role_labeling/Tagger"]
+	path = semantic_role_labeling/Tagger
+	url = git@github.com:XMUNLP/Tagger.git
+[submodule "asr/pytorch-kaldi"]
+	path = asr/pytorch-kaldi
+	url = git@github.com:mravanelli/pytorch-kaldi.git
+[submodule "machine_translation/fairseq"]
+	path = machine_translation/fairseq
+	url = git@github.com:facebookresearch/fairseq.git
+[submodule "machine_translation/OpenNMT-py"]
+	path = machine_translation/OpenNMT-py
+	url = git@github.com:OpenNMT/OpenNMT-py.git
+[submodule "machine_translation/nmt"]
+	path = machine_translation/nmt
+	url = git@github.com:tensorflow/nmt.git
