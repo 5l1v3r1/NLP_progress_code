@@ -1,0 +1,24 @@
+[submodule "asr/DeepSpeech"]
+	path = asr/DeepSpeech
+	url = git@github.com:mozilla/DeepSpeech.git
+[submodule "asr/deepspeech.pytorch"]
+	path = asr/deepspeech.pytorch
+	url = git@github.com:SeanNaren/deepspeech.pytorch.git
+[submodule "asr/returnn"]
+	path = asr/returnn
+	url = git@github.com:rwth-i6/returnn.git
+[submodule "asr/returnn-experiments"]
+	path = asr/returnn-experiments
+	url = git@github.com:rwth-i6/returnn-experiments.git
+[submodule "asr/kaldi"]
+	path = asr/kaldi
+	url = git@github.com:kaldi-asr/kaldi.git
+[submodule "asr/Pytorch-TDNN"]
+	path = asr/Pytorch-TDNN
+	url = git@github.com:SiddGururani/Pytorch-TDNN.git
+[submodule "asr/TDNN-layer"]
+	path = asr/TDNN-layer
+	url = git@github.com:Osblouf/TDNN-layer.git
+[submodule "asr/theano-kaldi-rnn"]
+	path = asr/theano-kaldi-rnn
+	url = git@github.com:mravanelli/theano-kaldi-rnn.git
