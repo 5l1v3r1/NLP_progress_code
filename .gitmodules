@@ -43,3 +43,24 @@
 [submodule "machine_translation/nmt"]
 	path = machine_translation/nmt
 	url = git@github.com:tensorflow/nmt.git
+[submodule "embeddings/MUSE"]
+	path = embeddings/MUSE
+	url = git@github.com:facebookresearch/MUSE.git
+[submodule "embeddings/poincare-embeddings"]
+	path = embeddings/poincare-embeddings
+	url = git@github.com:facebookresearch/poincare-embeddings.git
+[submodule "embeddings/fastText"]
+	path = embeddings/fastText
+	url = git@github.com:facebookresearch/fastText.git
+[submodule "domain_adaptation/pytorch-atda"]
+	path = domain_adaptation/pytorch-atda
+	url = git@github.com:corenel/pytorch-atda.git
+[submodule "domain_adaptation/ATDA"]
+	path = domain_adaptation/ATDA
+	url = git@github.com:vtddggg/ATDA.git
+[submodule "domain_adaptation/vfae"]
+	path = domain_adaptation/vfae
+	url = git@github.com:dendisuhubdy/vfae.git
+[submodule "domain_adaptation/tf-dann"]
+	path = domain_adaptation/tf-dann
+	url = git@github.com:pumpikano/tf-dann.git
